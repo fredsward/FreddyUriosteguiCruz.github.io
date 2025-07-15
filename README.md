@@ -41,6 +41,14 @@ Cabe mencionar que de igual forma estoy estudiando inglés para desarrollarme me
 * [Postman]: Herramienta para probar y automatizar APIS
 
 ### Skills 💻
+* Rest API testing
+* Conocimientos básicos acerca de modelos de desarrollo (agile y cascada)
+* Software testing
+* Creación de casos de uso
+* Reporte de bugs
+* Creación de reporte de bugs
+* Conocimientos básicos de Javascript (Cypress)
+* Conocimientos básicos en HTML y css
 
     
   
