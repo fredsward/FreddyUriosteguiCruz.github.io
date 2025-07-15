@@ -1,10 +1,48 @@
-# Portfolio
+# Portafolio
 
-### About me :wave:
-Hi, my name is Paulina. Since the beginning of 2023 I have been studying and practicing to become a QA. I am  happy to have finally found an area in which I can successfully develop myself. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+### Acerca de mi 😃
+Hola, mi nombre es Freddy Uriostegui, tengo 29 años y soy del estado de Quintana Roo, cuento con un titulo en ingeniero en software y actualmente me encuentro trabajando como auxiliar de sistemas desde hace un par de años, me considero una persona bastante curiosa y 
+creativa para dar soluciones o puntos de vista diferentes, es por eso que una de mis pasiones es todo lo relacionado a la tecnología.
+Cabe mencionar que de igual forma estoy estudiando inglés para desarrollarme mejor en el ámbito profesional y estoy tomando cursos de QA testing y puedo decir con total seguridad que encuentro todo lo relacionado a QA bastante interesante, en este portafolio plasmare todo aquello que he aprendido a través de este tiempo.
 
-[My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
-### My experience :office:
-Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+[Perfil de Linkedin](https://www.linkedin.com/in/freddy-uriostegui-cruz-4ba18b1b1/)
 
+### Experiencia 👷
+
+** Auxiliar de sistemas - Residencial Villa Magna (Octubre 2024 - Actualmente) **
+
+* Instalación y configuración de cámaras CCTV IP
+* Instalación de aplicaciones Microsoft office
+* Instalación de aplicaciones de terceros
+* Soporte de aplicación Appmosphera a usuarios
+* Apoyo cableado estructurado
+* Mantenimiento preventivo y correctivo de equipos
+
+** Programador - Intec&For (Octubre 2023- Septiembre 2024) **
+* Desarrollo de una app en Appshet para llevar control de personal de empresa.
+* Desarrollo de landing page con herramientas Wix
+* Desarrollo de una app para agenda de reclutamiento de personal
+
+** Analista de sistemas - Chedraui (Mayo 2022- Julio 2023) **
+* Mantenimiento preventivo y correctivo de equipos
+*  Resolución de tickets de usuario
+*  Capacitación de personal para el uso de servicios de terceros
+*  Configuración de telefonos IP
+*  Consultas básicas con SQL Server
+
+### Herramientas 🛠️
+* [Trello]: Gestión de tareas y proyectos 
+* [Jira]: Gestión de proyectos de QA y desarrollo
+* [Cypress]: Herramienta de pruebas para código para aplicaciones web
+* [Chrome devtools]: Inspeccionar elementos y estilos de las páginas web
+* [Test & Feedback]: Extensión de google chrome que permite crear una sesión y anotar bugs y errores en páginas
+* [Testrail]: Herramienta de test management
+* [Postman]: Herramienta para probar y automatizar APIS
+
+### Skills 💻
+
+    
+  
+
+ 
