@@ -53,7 +53,7 @@ Cabe mencionar que de igual forma estoy estudiando inglés para desarrollarme me
 
 ### Ejemplos de proyectos 🔨
 
-* [Buggy cars](https://drive.google.com/drive/folders/1W8zzOHnz28VlIBuhBNpJAsqBVXOEyb0I?usp=drive_link) - Documentación, capturas con el gestor de proyectos de QA jira, documento en drive con los bugs hallados y excel en drive con los casos de prueba
+* [Buggy cars](https://drive.google.com/drive/folders/1W8zzOHnz28VlIBuhBNpJAsqBVXOEyb0I?usp=drive_link) - Documentación, capturas con el gestor de proyectos de QA jira, documento en drive con los bugs hallados y excel en drive con los casos de prueba incluyendo tests con cypress
 
     
   
