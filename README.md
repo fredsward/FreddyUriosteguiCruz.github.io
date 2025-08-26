@@ -54,7 +54,7 @@ Cabe mencionar que de igual forma estoy estudiando inglés para desarrollarme me
 ### Ejemplos de proyectos 🔨
 
 * [Buggy cars](https://drive.google.com/drive/folders/1W8zzOHnz28VlIBuhBNpJAsqBVXOEyb0I?usp=drive_link) - Documentación, capturas con el gestor de proyectos de QA jira, documento en drive con los bugs hallados y excel en drive con los casos de prueba incluyendo tests con cypress
-* [Geekstore](https://drive.google.com/drive/folders/1Dm-AVhttb-HS0Wmys_y0kbigUWq5VNxv?usp=sharing) - Documentación, reporte de bugs con la herramienta test & feedback, documento en excel con los clasos de prueba incluyendo tests con cypress.
+* [Geekstore](https://drive.google.com/drive/folders/1Dm-AVhttb-HS0Wmys_y0kbigUWq5VNxv?usp=sharing) - Documentación, reporte de bugs con la herramienta test & feedback y trello documento en excel con los clasos de prueba incluyendo tests con cypress.
 
     
   
